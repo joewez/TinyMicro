@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 6/12/2014 9:05:00 PM
+
+BeginCmp
+TimeStamp = /53953B4F;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = CP_5x7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53953B5C;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = CP_5x7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /53953B6A;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547C9C;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = conn_usb_B_mini_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /539A56C8;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = led_3mm_green;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547D74;
+Reference = D2;
+ValeurCmp = 3.6V Zener;
+IdModule  = diode_do35;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547D8C;
+Reference = D3;
+ValeurCmp = 3.6V Zener;
+IdModule  = diode_do35;
+EndCmp
+
+BeginCmp
+TimeStamp = /53953BAB;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = diode_do41;
+EndCmp
+
+BeginCmp
+TimeStamp = /539A5799;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = led_3mm_red;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547CC4;
+Reference = IC1;
+ValeurCmp = ATTINY85-P;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B0D3C;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = pin_socket_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /535B0D53;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = pin_socket_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53953AB7;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = pin_strip_2-90;
+EndCmp
+
+BeginCmp
+TimeStamp = /539A56E1;
+Reference = R1;
+ValeurCmp = 220ohm;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547E10;
+Reference = R2;
+ValeurCmp = 1.5Kohm;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /539A579F;
+Reference = R3;
+ValeurCmp = 220ohm;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547DCB;
+Reference = R4;
+ValeurCmp = 68ohm;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53547DF3;
+Reference = R5;
+ValeurCmp = 68ohm;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /53953B2B;
+Reference = U1;
+ValeurCmp = 78L05;
+IdModule  = TO92;
+EndCmp
+
+EndListe
